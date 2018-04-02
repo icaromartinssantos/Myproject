@@ -1,0 +1,11 @@
+- git status - Vê alterações
+
+- git add . - Adiciona os arquivos
+
+- git commit -m "descrição" - Descreve as alterações
+
+- git push origin master - Subir no servidor do Git Hub
+
+- ls - listar tudo
+
+- cd - entrar na pasta
